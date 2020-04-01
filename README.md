@@ -16,3 +16,6 @@ Neural style transfer is a kind of application of GAN (Generative Adversarial Ne
 - Step3: Extract style and content
 - Step4: Run gradient descent. With style and content extractor, implement the style transfer algorithm. In this case, I complete this by calculating the mean square error, then take the weighted sum of these losses.
 Step5: Fine tune the network. Decrease the high frequency artifacts using an explicit regularization term on the high frequency components of the image.
+
+The result likes this:
+![result]()
