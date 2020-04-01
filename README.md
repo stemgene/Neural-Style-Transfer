@@ -18,4 +18,4 @@ Neural style transfer is a kind of application of GAN (Generative Adversarial Ne
 Step5: Fine tune the network. Decrease the high frequency artifacts using an explicit regularization term on the high frequency components of the image.
 
 The result likes this:
-![result]()
+![result]("https://github.com/stemgene/Neural-Style-Transfer/blob/master/image/output_smallgood.jpg")
